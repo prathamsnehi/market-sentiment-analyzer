@@ -1,0 +1,6 @@
+
+
+cursor = connection.cursor()
+
+
+

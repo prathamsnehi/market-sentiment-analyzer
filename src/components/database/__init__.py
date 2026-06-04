@@ -1,6 +1,0 @@
-
-
-cursor = connection.cursor()
-
-
-

@@ -102,4 +102,18 @@ DROP TABLE users;
 
 ---
 
+## Comprehensive Data Types for PosgreSQL (the main ones):
+
+- INTEGER
+- DECIMAL
+- NUMERIC
+- TEXT
+  - for more complicated, there are things like CHAR(n) and VARCHAR(n)
+- DATE
+- TIMESTAMP
+- BOOLEAN
+  - true, false or NULL
+- JSON
+- UUID
+
 ## Defining Schemas / Models:
